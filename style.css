@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    background-color: #121212;
+}
+
+.header-section {
+    background: linear-gradient(135deg,#2c53ee, #09afaf, #2c53ee );
+    color: white;
+    padding: 3rem 0;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #ffffff;
+}
+
+.social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 2.5rem;
+}
+
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+}
+
+
+.card, .btn, .form-control {
+    border-radius: 15px;
+}
+.card-deck .card {
+    background: #1c1c1c;
+    color: white;
+}
+.skill-card i, .card i {
+    color: #96c93d;
+    font-size: 3rem;
+}
+
+footer {
+    font-size: 0.9em;
+}
